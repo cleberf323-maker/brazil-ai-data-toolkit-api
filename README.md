@@ -81,8 +81,12 @@ Discover subdomains and inspect public IPs for:
 
 # Available on RapidAPI
 
-Access the API through RapidAPI with:
+Access the API through RapidAPIwith:
 - free tier
 - usage quotas
-- API key management
+- API key management 
 - marketplace billing
+
+## RapidAPI
+
+[View in RapidAPI](https://rapidapi.com/cleberf323/api/brazil-ai-data-toolkit1)
