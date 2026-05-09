@@ -4,7 +4,7 @@
 ![AI](https://img.shields.io/badge/AI-Ready-green)
 ![RAG](https://img.shields.io/badge/RAG-Pipelines-purple)
 ![Automation](https://img.shields.io/badge/Automation-Workflows-orange)
-<img width="1254" height="1254" alt="logo_API" src="https://github.com/user-attachments/assets/035f377e-0ff0-4a2b-ad56-5fba801d44e0" />
+<img width="450" height="450" alt="logo_API" src="https://github.com/user-attachments/assets/035f377e-0ff0-4a2b-ad56-5fba801d44e0" />
 
 
 Turn websites into AI-ready Markdown, screenshots and structured public data for RAG, agents, automation and security workflows.
