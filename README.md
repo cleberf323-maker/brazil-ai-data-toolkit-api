@@ -1,4 +1,9 @@
 # Brazil + AI Data Toolkit API
+
+![RapidAPI](https://img.shields.io/badge/RapidAPI-Available-blue)
+![AI](https://img.shields.io/badge/AI-Ready-green)
+![RAG](https://img.shields.io/badge/RAG-Pipelines-purple)
+![Automation](https://img.shields.io/badge/Automation-Workflows-orange)
 <img width="1254" height="1254" alt="logo_API" src="https://github.com/user-attachments/assets/035f377e-0ff0-4a2b-ad56-5fba801d44e0" />
 
 
@@ -12,6 +17,23 @@ Turn websites into AI-ready Markdown, screenshots and structured public data for
 - Brazilian CEP lookup
 - IP intelligence
 - Subdomain discovery
+
+## Quick Start
+
+1. Subscribe to the free plan on RapidAPI
+2. Copy your API key
+3. Send a request to `/v1/extract/markdown`
+4. Receive clean AI-ready Markdown
+
+Example:
+
+```bash
+curl -X POST \
+  https://brazil-ai-data-toolkit1.p.rapidapi.com/v1/extract/markdown \
+  -H "X-RapidAPI-Key: YOUR_API_KEY" \
+  -H "X-RapidAPI-Host: brazil-ai-data-toolkit1.p.rapidapi.com" \
+  -H "Content-Type: application/json"
+```
 
 ## Built for
 
