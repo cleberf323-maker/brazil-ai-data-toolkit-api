@@ -1,4 +1,6 @@
 # Brazil + AI Data Toolkit API
+<img width="1254" height="1254" alt="logo_API" src="https://github.com/user-attachments/assets/035f377e-0ff0-4a2b-ad56-5fba801d44e0" />
+
 
 Turn websites into AI-ready Markdown, screenshots and structured public data for RAG, agents, automation and security workflows.
 
